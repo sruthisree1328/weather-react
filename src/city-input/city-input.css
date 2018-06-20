@@ -1,0 +1,12 @@
+.input {
+    width: 50%;
+    margin: 20px auto;
+    display: flex;
+}
+
+#btn {
+    height: 34px;
+    padding: 4px;
+    margin-right:40px;
+    width:40px;
+}
